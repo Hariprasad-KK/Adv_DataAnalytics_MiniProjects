@@ -3,4 +3,5 @@
 ## Lab 2-Preprocessing 1
 ## 	Lab 3-Preprocessing 2
 ## Lab 4-Logistic  Regression
-  
+## Lab 5-Sentiment Analysis
+
