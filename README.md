@@ -5,5 +5,5 @@
 ## Lab 4-Logistic  Regression
 ## Lab 5-Sentiment Analysis
 ## Lab 6-Recommendation Systems
-
+## 	Lab 7-Time Series Algorithms
 
